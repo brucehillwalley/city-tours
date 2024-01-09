@@ -1,4 +1,4 @@
-#live 
+# You can see the project here
 https://sci-fi-legends.netlify.app/
 # Getting Started with Create React App
 
